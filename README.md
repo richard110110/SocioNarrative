@@ -52,5 +52,13 @@ Your input CSV must contain the following columns:
 - `latitude`
 - `longitude`
 
+## 📸 Screenshots
+
+![image1.png](images/1.png)
+
+![image2.png](images/2.png)
+
+![image3.png](images/3.png)
+
 ### 🔗 Run on Binder
 [Click here to launch in Voila (Binder)](https://hub.gesis.mybinder.org/user/richard110110-socionarrative-54kbiuh4/voila/render/notebook/visualization_map.ipynb)
