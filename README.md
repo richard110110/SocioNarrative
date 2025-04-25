@@ -35,3 +35,19 @@ This tool is tailored for non-technical users such as:
 ## 🚀 Getting Started
 
 1. Clone the repo:
+
+
+## 🚀 How to Run
+
+1. Make sure you have Python 3.8+ installed
+2. Install dependencies:
+## 📁 Data Format
+
+Your input CSV must contain the following columns:
+- `timestamp`
+- `text`
+- `location`
+- `sentiment`
+- `country`
+- `latitude`
+- `longitude`
