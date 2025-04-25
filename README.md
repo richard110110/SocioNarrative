@@ -51,3 +51,6 @@ Your input CSV must contain the following columns:
 - `country`
 - `latitude`
 - `longitude`
+
+### 🔗 Run on Binder
+[Click here to launch in Voila (Binder)](https://hub.gesis.mybinder.org/user/richard110110-socionarrative-54kbiuh4/voila/render/notebook/visualization_map.ipynb)
